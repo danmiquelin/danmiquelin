@@ -1,21 +1,25 @@
-## Hi there 👋
+## Hello World!!! 👋
+
+### Olá, seja bem-vindo ao meu GitHub!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img alt="Animação de contribuição no GitHub" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danmiquelin/danmiquelin/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!--
-**danmiquelin/danmiquelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Aqui você encontrará projetos que desenvolvo com dedicação, compartilhando aprendizado e experiências em programação, tecnologia e inovação.  
+Sinta-se à vontade para explorar meus repositórios, deixar sugestões e colaborar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado pela visita e bom desenvolvimento! 🚀
+
